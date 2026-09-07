@@ -40,11 +40,11 @@ Mijn site: https://jozua3.github.io/FED-Website/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home 
-  <img src="" width="375px" alt="omschrijving van de pagina">
+  <img src="/readme-images/screenshot-gekozen-pagina.png" width="375px" alt="hier zie je een afbeelding van de hele pagina die ik heb gekozen.">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/screenshot-gekozen-pagina.png" width="375px" alt="hier zie je een afbeelding van de hele pagina die ik heb gekozen.">
+  <img src="" width="375px" alt="">
  
 </details>
 
