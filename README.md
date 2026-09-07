@@ -6,7 +6,7 @@ Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal
 
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
-Site: https://jozua3.github.io/FED-Website/
+Mijn site: https://jozua3.github.io/FED-Website/
 
 
 
@@ -17,12 +17,12 @@ Site: https://jozua3.github.io/FED-Website/
 
   ### Auteur:
   Jozua Kroeze
-  
+
   #### Je startniveau:
   Blauw
-  
+
   #### Je focus:
-  Responsive
+  Responsive 
  
 </details>
 
@@ -39,12 +39,12 @@ Site: https://jozua3.github.io/FED-Website/
   link naar de website die je gaat namaken: https://saltmurphy.com
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Home 
+  <img src="" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/screenshot-gekozen-pagina.png" width="375px" alt="hier zie je een afbeelding van de hele pagina die ik heb gekozen.">
  
 </details>
 
